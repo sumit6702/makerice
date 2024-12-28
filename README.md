@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 RiceGuide - Your Personal System Customization Hub
 
-## Getting Started
+Welcome to RiceGuide, your comprehensive resource for creating stunning, personalized desktop environments across Linux, macOS, and Windows. "Ricing" is the art of customizing your desktop environment to make it both beautiful and functional.
 
-First, run the development server:
+## 🚀 What is Ricing?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Ricing refers to the process of customizing your computer's operating system appearance and functionality. The term originated from the car modding community and has been adopted by tech enthusiasts to describe system customization.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📚 Guides Available
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Linux
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Window Managers (i3, bspwm, awesome)
+- Desktop Environments (GNOME, KDE, XFCE)
+- Terminal Customization
+- Themes and Icons
+- Compositor Setup (picom)
+- Status Bars (polybar)
 
-## Learn More
+### macOS
 
-To learn more about Next.js, take a look at the following resources:
+- Terminal Customization
+- Window Management (yabai, Rectangle)
+- Status Bar Modifications
+- Icon and Theme Tweaks
+- Workflow Enhancements
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Windows
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Terminal Emulators
+- Window Managers (PowerToys)
+- Taskbar Customization
+- Desktop Widgets
+- Theme Customization
 
-## Deploy on Vercel
+## 🛠️ Getting Started
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Choose your operating system section
+2. Follow the step-by-step guides
+3. Check the requirements for each customization
+4. Share your creations with the community
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📦 Prerequisites
+
+Different customizations require different tools. Each guide includes:
+
+- Required software and dependencies
+- Recommended hardware specifications
+- Backup procedures
+- Troubleshooting tips
+
+## 🤝 Contributing
+
+We welcome contributions! If you'd like to add your own rice guides:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/new-rice-guide`)
+3. Add your guide following our template
+4. Submit a pull request
+
+## 📸 Showcase
+
+Visit our [Gallery](./gallery.md) to see community submissions and get inspiration for your own rice.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Resources
+
+- [r/unixporn](https://reddit.com/r/unixporn) - Inspiration and examples
+- [DeviantArt](https://deviantart.com) - Themes and wallpapers
+- [GitHub](https://github.com/topics/dotfiles) - Dotfiles repositories
+
+## 📫 Contact
+
+- Join our [Discord](discord.link)
+- Follow us on [Twitter](twitter.link)
+- Submit issues on [GitHub](github.link)
+
+## ⭐ Support the Project
+
+If you find this guide helpful, please consider:
+
+- Starring the repository
+- Sharing with friends
+- Contributing guides
+- Reporting issues
+
+Happy Ricing! 🎉
