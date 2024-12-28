@@ -1,3 +1,5 @@
+#Vist Our Site [MakeRice.com](https://makerice.com)
+
 # 🎨 RiceGuide - Your Personal System Customization Hub
 
 Welcome to RiceGuide, your comprehensive resource for creating stunning, personalized desktop environments across Linux, macOS, and Windows. "Ricing" is the art of customizing your desktop environment to make it both beautiful and functional.
