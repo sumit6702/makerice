@@ -1,4 +1,4 @@
-#Vist Our Site [MakeRice.com](https://makerice.com)
+# Vist Our Site [MakeRice.com](https://makerice.com)
 
 # 🎨 RiceGuide - Your Personal System Customization Hub
 
